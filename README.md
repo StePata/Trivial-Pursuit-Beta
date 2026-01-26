@@ -1,1 +1,1 @@
-# Trivial-Pursuit-Beta
+# Trivial Pursuit Beta
