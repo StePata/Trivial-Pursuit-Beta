@@ -1,0 +1,6341 @@
+[
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "\"Ora è l'inverno del nostro scontento\" è una frase da cui l'opera shakespeariana?",
+    "answer": 0,
+    "answers": [
+      "Riccardo III",
+      "Romeo e Giulietta",
+      "Macbeth"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "\"Our Town\" è un'opera teatrale di chi?",
+    "answer": 0,
+    "answers": [
+      "Thornton Wilder"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Con quale titolo è stato pubblicato per la prima volta in inglese \"Il diario di Anne Frank\"?",
+    "answer": 0,
+    "answers": [
+      "Il diario di una ragazzina"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Fascia decorativa dipinta o scolpita, spesso nella parte superiore di un muro.",
+    "answer": 0,
+    "answers": [
+      "Un fregio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Una composizione fatta di pezzi di materiali tagliati e incollati, a volte con immagini aggiunte dall'artista.",
+    "answer": 0,
+    "answers": [
+      "Collage"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento artistico decorativo emerso alla fine del XIX secolo. Caratterizzato da una fitta ornamentazione asimmetrica in forme sinuose, è spesso simbolico e di carattere erotico.",
+    "answer": 0,
+    "answers": [
+      "Stile Liberty"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Uno stile di design prevalente negli anni '20 e '30, caratterizzato da un uso elegante di linee rette e forme snelle.",
+    "answer": 0,
+    "answers": [
+      "Art Déco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Movimento europeo che ebbe inizio in Francia nel XIII secolo. Le opere sono caratterizzate da uno stile lineare, aggraziato, elegante, più naturalistico rispetto a quello esistente precedentemente in Europa.",
+    "answer": 0,
+    "answers": [
+      "gotico",
+      "Rinascimento",
+      "romanico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Movimento europeo dalla fine del XVIII alla metà del XIX secolo. In reazione al neoclassicismo, si concentrò sull’emozione rispetto alla ragione e sull’espressione spontanea.",
+    "answer": 0,
+    "answers": [
+      "Romanticismo",
+      "gotico",
+      "romanico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Uno stile europeo sviluppato in Francia alla fine dell'XI secolo. La sua scultura è ornamentale, stilizzata e complessa.",
+    "answer": 0,
+    "answers": [
+      "romanico",
+      "gotico",
+      "Neoclassicismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Uno stile europeo della fine del XVIII e dell'inizio del XIX secolo. Le sue opere eleganti ed equilibrate fanno rivivere l'ordine e l'armonia dell'antica arte greca e romana.",
+    "answer": 0,
+    "answers": [
+      "Neoclassicismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento figurativo emerso negli Stati Uniti e in Gran Bretagna alla fine degli anni '60 e '70. Il soggetto, solitamente scene di tutti i giorni, è rappresentato in uno stile estremamente dettagliato ed esigente. Viene chiamato anche _superrealismo_, soprattutto se riferito alla scultura.",
+    "answer": 0,
+    "answers": [
+      "Fotorealismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Tavola piatta utilizzata dal pittore per mescolare e trattenere i colori, tradizionalmente oblunga, con un foro per il pollice.",
+    "answer": 0,
+    "answers": [
+      "Tavolozza"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un gruppo di pittori americani che si unirono per opporsi agli standard accademici all'inizio del XX secolo.",
+    "answer": 0,
+    "answers": [
+      "Gli otto"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un gruppo di pittori inglesi formatosi nel 1848. Questi artisti tentarono di riconquistare lo stile pittorico precedente a Raffaello. Rifiutarono l'Inghilterra industrializzata e si concentrarono sulla pittura dalla natura, producendo opere dettagliate e colorate.",
+    "answer": 0,
+    "answers": [
+      "Confraternita dei Preraffaelliti"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un grande dipinto o decorazione eseguita su un muro.",
+    "answer": 0,
+    "answers": [
+      "Murale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Scuola di pittura francese della fine del XIX secolo. Si concentrava su impressioni visive transitorie, spesso dipinte direttamente dalla natura, con un'enfasi sugli effetti mutevoli di luce e colore.",
+    "answer": 0,
+    "answers": [
+      "Impressionismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un metodo di pittura sviluppato da Seurat e Signac negli anni ottanta dell'Ottocento. Utilizzava tocchi di colore puro destinati a mescolarsi agli occhi degli spettatori piuttosto che sulla tela. Viene anche chiamato _divisionismo_ o _neoimpressionismo_.",
+    "answer": 0,
+    "answers": [
+      "Puntinismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Metodo per produrre immagini o lettere da fogli di cartone, metallo o altri materiali da cui sono state ritagliate delle forme.",
+    "answer": 0,
+    "answers": [
+      "Stencil"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un metodo di pittura ad acquerello, ma preparato con una base più collosa, producendo un effetto meno trasparente.",
+    "answer": 0,
+    "answers": [
+      "Guazzo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento nella pittura e nella scultura americana che ha avuto origine alla fine degli anni '50. Enfatizzava forme pure e ridotte e composizioni rigorose e sistematiche.",
+    "answer": 0,
+    "answers": [
+      "Minimalismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento nella pittura europea del XVII e dell'inizio del XVIII secolo, caratterizzato da movimenti violenti, forti emozioni e luci e colori drammatici.",
+    "answer": 0,
+    "answers": [
+      "Barocco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento degli anni '20 e '30 iniziato in Francia. Ha esplorato l'inconscio, spesso utilizzando immagini tratte dai sogni. Utilizzava tecniche spontanee e prevedeva giustapposizioni inaspettate di oggetti.",
+    "answer": 0,
+    "answers": [
+      "Surrealismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento degli anni '60 e '70 che enfatizzava l'idea artistica rispetto all'oggetto d'arte. Ha tentato di liberare l'arte dai confini della galleria e del piedistallo.",
+    "answer": 0,
+    "answers": [
+      "Arte concettuale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento iniziato in Gran Bretagna e negli Stati Uniti negli anni ’50. Utilizzava le immagini e le tecniche dei mass media, della pubblicità e della cultura popolare, spesso in modo ironico.",
+    "answer": 0,
+    "answers": [
+      "Pop art"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento, c. 1915-23, che rifiutava gli standard estetici accettati. Mirava a creare antiarte e nonarte, spesso impiegando il senso dell'assurdo.",
+    "answer": 0,
+    "answers": [
+      "Dadaismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento pittorico fiorito in Francia tra il 1880 e il 1980 in cui il soggetto veniva suggerito piuttosto che presentato direttamente. Presentava immagini decorative, stilizzate ed evocative.",
+    "answer": 0,
+    "answers": [
+      "Simbolismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un dipinto o un disegno eseguito in un unico colore.",
+    "answer": 0,
+    "answers": [
+      "Monocromo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Una tecnica pittorica che utilizza pigmenti mescolati con tuorlo d'uovo e acqua. Produce colori chiari e puri.",
+    "answer": 0,
+    "answers": [
+      "Tempera"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Una stampa realizzata incidendo un blocco di legno, che viene poi inchiostrato e stampato.",
+    "answer": 0,
+    "answers": [
+      "Xilografia"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un processo di stampa in cui le impronte di inchiostro vengono prese da una pietra piatta o da una lastra di metallo preparata con una sostanza grassa, come un pastello oleoso.",
+    "answer": 0,
+    "answers": [
+      "Litografia"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Uno stile di pittura realistico in cui la vita quotidiana costituisce il soggetto, distinto dalla pittura religiosa o storica.",
+    "answer": 0,
+    "answers": [
+      "Pittura di genere"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Una rappresentazione di una forma umana o animale.",
+    "answer": 0,
+    "answers": [
+      "Figura"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento astratto russo iniziato all'inizio del XX secolo. Impiega una visione analitica basata sulla frammentazione e su molteplici punti di vista.",
+    "answer": 0,
+    "answers": [
+      "Cubismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento astratto russo originato da Malevich c. 1913. Era caratterizzato da forme geometriche piatte su sfondi semplici e sottolineava le qualità spirituali della forma pura.",
+    "answer": 0,
+    "answers": [
+      "Suprematismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Una singola stampa realizzata da una lastra di metallo o di vetro su cui un'immagine è stata rappresentata con vernice, inchiostro, ecc.",
+    "answer": 0,
+    "answers": [
+      "Monotipo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un colore morbido e tenue; un bastoncino da disegno fatto di pigmenti macinati, gesso e acqua di gomma.",
+    "answer": 0,
+    "answers": [
+      "Pastello"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Uno stile, c. 1520-1600, sorto in reazione all'armonia e alle proporzioni dell'Alto Rinascimento. Presentava pose allungate e contorte, tele affollate e luci e colori duri.",
+    "answer": 0,
+    "answers": [
+      "Manierismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Una tecnica di pittura astratta sviluppata negli anni '50. Si concentra sugli effetti lirici di ampie aree di colore, spesso versate o macchiate sulla tela.",
+    "answer": 0,
+    "answers": [
+      "Pittura sul campo di colore"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Tecnica di incisione, che utilizza un ago appuntito, che produce un bordo solcato dando come risultato una stampa dalle linee morbide e vellutate.",
+    "answer": 0,
+    "answers": [
+      "Puntasecca"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Termine coniato dal critico d'arte britannico Roger Fry per riferirsi a un gruppo di pittori del XIX secolo, insoddisfatti dei limiti dell'impressionismo. Da allora è stato utilizzato per riferirsi a varie reazioni contro l'impressionismo, come il fauvismo e l'espressionismo.",
+    "answer": 0,
+    "answers": [
+      "Postimpressionismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Secondo \"La Guida Galattica per Autostoppisti\" quale numero è la risposta a tutto?\"",
+    "answer": 0,
+    "answers": [
+      "Quarantadue"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento astratto in Europa e negli Stati Uniti, iniziato a metà degli anni '50, basato sull'effetto dei motivi ottici.",
+    "answer": 0,
+    "answers": [
+      "Arte op"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un'opera d'arte che esagera in modo umoristico le qualità, i difetti o le peculiarità di una persona o di un'idea.",
+    "answer": 0,
+    "answers": [
+      "Caricatura"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Uno stile europeo del XVIII secolo, originario della Francia. In reazione alla grandiosità e alla imponenza del barocco, impiegò forme raffinate, eleganti e altamente decorative.",
+    "answer": 0,
+    "answers": [
+      "Rococco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Tecnica di incisione in cui sulla lastra viene utilizzata una soluzione di asfalto o resina. Produce stampe con toni ricchi e grigi.",
+    "answer": 0,
+    "answers": [
+      "Acquatinta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Un movimento italiano c.1909-1919. Ha tentato di integrare il dinamismo dell’era delle macchine nell’arte.",
+    "answer": 0,
+    "answers": [
+      "Futurismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Opere d'arte, solitamente dipinti, caratterizzate da uno stile semplificato, una prospettiva non scientifica e colori vivaci. Gli artisti generalmente non hanno una formazione professionale.",
+    "answer": 0,
+    "answers": [
+      "Arte ingenua"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si riferiva H.G. Wells ad Adolf Hitler?",
+    "answer": 0,
+    "answers": [
+      "Un pazzo certificabile"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale stazione ferroviaria Harry Potter prende l'Hogwart's Express al binario 9 e 3 quarti?",
+    "answer": 0,
+    "answers": [
+      "Croce del re"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Autore di \"The Lighthouse\" e \"Eminent Victorians\"?",
+    "answer": 0,
+    "answers": [
+      "Virginia Woolf"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Autore di opere come Gravity's Rainbow, V, The Crying of Lot 49 e, più recentemente, Mason & Dixon?",
+    "answer": 0,
+    "answers": [
+      "Tommaso Pynchon"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Bob Kane ha creato chi?",
+    "answer": 0,
+    "answers": [
+      "Batman"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Con quale nome è meglio conosciuto il grande scultore e artista italiano Buonarroti?",
+    "answer": 0,
+    "answers": [
+      "Michelangelo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Capitan Uncino, Giglio Tigrato e Campanellino sono i personaggi di quale storia?",
+    "answer": 0,
+    "answers": [
+      "Peter Pan"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Douglas Adams è famoso per aver scritto cosa?",
+    "answer": 0,
+    "answers": [
+      "La guida galattica per gli autostoppisti"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Il dottor Seuss ha scritto questo libro: Il gatto nel ______.",
+    "answer": 0,
+    "answers": [
+      "Cappello"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Edgar Allan Poe scrisse una famosa poesia su questo animale.",
+    "answer": 0,
+    "answers": [
+      "Corvo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale commedia appare Eliza Doolittle?",
+    "answer": 0,
+    "answers": [
+      "Pigmalione/La mia bella signora"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Faulkner ha scritto questo libro con 4 sezioni distintive: la sezione di Benjy, la sezione di Quentin, Jason e poi le sezioni di Dilsey.",
+    "answer": 0,
+    "answers": [
+      "L'urlo e il furore"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Per cosa è famosa Dame Margott Fonteyn?",
+    "answer": 0,
+    "answers": [
+      "Danza classica"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Per quale romanzo Boris Pasternak vinse il Premio Nobel nel 1958, premio che rifiutò?",
+    "answer": 0,
+    "answers": [
+      "Dottor Zivago"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "L'impressionista francese Claude _____",
+    "answer": 0,
+    "answers": [
+      "Monet"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Frodo viene scelto per consegnare L'Anello nel cuore di cosa?",
+    "answer": 0,
+    "answers": [
+      "Monte destino"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dalla parola francese \"fauve\", che significa \"bestia selvaggia\". Uno stile adottato da artisti associati a Matisse, c. 1905-1908. Dipingevano in modo spontaneo, usando colori vivaci.",
+    "answer": 0,
+    "answers": [
+      "Fauvismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dalla parola ebraica per \"profeta\". Gruppo di pittori francesi attivi intorno al 1890 che lavoravano con uno stile soggettivo, a volte mistico, sottolineando aree piatte di colore e motivi.",
+    "answer": 0,
+    "answers": [
+      "Nabis"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Da quale opera di Shakespeare è tratta questa frase: \"Buonanotte, buonanotte! La separazione è un dolore così dolce, che dovrei dire buonanotte fino a domani.\"?",
+    "answer": 0,
+    "answers": [
+      "Romeo e Giulietta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Da quale opera di Shakespeare è tratta questa frase: \"Essere o non essere?\"?",
+    "answer": 0,
+    "answers": [
+      "Frazione"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Da quale opera di Shakespeare è tratta questa frase: \"Cosa c'è in un nome? Ciò che chiamiamo rosa, con qualsiasi altro nome avrebbe un profumo altrettanto dolce.\"?",
+    "answer": 0,
+    "answers": [
+      "Romeo e Giulietta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Da chi Bilbo ha ottenuto l'Anello?",
+    "answer": 0,
+    "answers": [
+      "Gollum"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Il nome elfico di Gandalf.",
+    "answer": 0,
+    "answers": [
+      "Mithrandir"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Gesso macinato o gesso misto a colla, utilizzato come fondo per pitture a tempera e ad olio.",
+    "answer": 0,
+    "answers": [
+      "Gesso"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Gruppo di artisti americani dal 1908 al 1918. Il loro lavoro presentava scene di realismo urbano.",
+    "answer": 0,
+    "answers": [
+      "Ash può scuola"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Romanzo di H.G. Wells in cui la Terra è invasa dai marziani.",
+    "answer": 0,
+    "answers": [
+      "Guerra dei mondi"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Ha scritto il romanzo fondatore del genere utopico, \"Utopia\".",
+    "answer": 0,
+    "answers": [
+      "Sir Tommaso Moro"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Ha scritto Ulisse, Giacomo Joyce, Dubliners e Finnegans Wake, tra gli altri.",
+    "answer": 0,
+    "answers": [
+      "James Joyce"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Le sue numerose odi romantiche includono \"Inno alla malinconia\" e \"Inno all'urna greca\"?",
+    "answer": 0,
+    "answers": [
+      "Keats"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Omero scrisse questo resoconto della guerra di Troia.",
+    "answer": 0,
+    "answers": [
+      "Iliade"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come è altrimenti conosciuto Jack Dawkins come in un romanzo di Dickens?",
+    "answer": 0,
+    "answers": [
+      "Dodger astuto"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come è meglio conosciuta la signora William Heelis?",
+    "answer": 0,
+    "answers": [
+      "Beatrice Potter"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come è meglio conosciuto Samuel Clemens?",
+    "answer": 0,
+    "answers": [
+      "Mark Twain"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quanti libri ci sono nella serie sui vampiri di Anne Rice?",
+    "answer": 0,
+    "answers": [
+      "Cinque"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quanti buchi ci sono su una tavolozza da artista tradizionale?",
+    "answer": 0,
+    "answers": [
+      "Uno"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quanti versi ci sono in un sonetto?",
+    "answer": 0,
+    "answers": [
+      "Quattordici"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "A quante opere teatrali viene generalmente attribuito Shakespeare oggi?",
+    "answer": 0,
+    "answers": [
+      "Trentasette"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quanti racconti pubblicò Enid Blyton nel 1959?",
+    "answer": 0,
+    "answers": [
+      "Cinquantanove"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quanti racconti ci sono nei racconti di Canterbury di Chaucer?",
+    "answer": 0,
+    "answers": [
+      "23"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quanti anni aveva Adrian Mole quando iniziò a scrivere il suo diario segreto?",
+    "answer": 0,
+    "answers": [
+      "13 e tre quarti"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"A Christmas Carol\", quanti fantasmi hanno visitato Scrooge?",
+    "answer": 0,
+    "answers": [
+      "Quattro"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"A Christmas Carol\", come si chiamava l'avaro?",
+    "answer": 0,
+    "answers": [
+      "Ebenezer Scrooge"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"Alice nel Paese delle Meraviglie\", chi non smetteva mai di singhiozzare?",
+    "answer": 0,
+    "answers": [
+      "Finta tartaruga"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"Romeo e Giulietta\", qual era il lungo monologo di Mercuzio?",
+    "answer": 0,
+    "answers": [
+      "La regina Mab"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"Romeo e Giulietta\", chi ha fatto un lungo monologo sulla regina Mab?",
+    "answer": 0,
+    "answers": [
+      "Mercuzio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"Romeo e Giulietta\" chi dice \"Ho un leggero raffreddore, la paura mi scorre nelle vene\"?",
+    "answer": 0,
+    "answers": [
+      "Giulietta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"Romeo e Giulietta\", chi dice \"Fai il letto nuziale in quel monumento oscuro dove giace Tebaldo\"?",
+    "answer": 0,
+    "answers": [
+      "Giulietta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"Romeo e Giulietta\", chi dice \"ciò che deve essere deve essere\"?",
+    "answer": 0,
+    "answers": [
+      "Giulietta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"I racconti di Canterbury\" in quale taverna si riuniscono i narratori?",
+    "answer": 0,
+    "answers": [
+      "Il Tabardo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"The Rhyme Of The Ancient Mariner\", quale uccello viene ucciso",
+    "answer": 0,
+    "answers": [
+      "Un albatro"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nel 1526 Hans Holbein divenne il ritrattista ufficiale di quale re inglese?",
+    "answer": 0,
+    "answers": [
+      "Enrico VIII"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nel 2007 chi era in cima alla classifica dei libri di saggistica più venduti con \"Born to be riled\"?",
+    "answer": 0,
+    "answers": [
+      "Jeremy Clarkson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In senso generale, si riferisce alla rappresentazione oggettiva. Più specificamente, un movimento del XIX secolo, soprattutto in Francia, che rifiutava gli stili accademici idealizzati a favore di materie quotidiane.",
+    "answer": 0,
+    "answers": [
+      "Realismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"The Time Machine\" di HG Wells, due razze del futuro sono i bambini Eloi e i mostri sotterranei chiamati ____?\"",
+    "answer": 0,
+    "answers": [
+      "Morlock"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In uno dei romanzi di Donald Horne, come veniva soprannominata l'Australia?",
+    "answer": 0,
+    "answers": [
+      "Il paese fortunato"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In uno dei romanzi di Donald Horne, quale era \"il paese fortunato\"?",
+    "answer": 0,
+    "answers": [
+      "Australia"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nella pittura, un sottile strato di colore traslucido.",
+    "answer": 0,
+    "answers": [
+      "Lavare"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In pittura, opera composta da più pannelli o scene unite insieme. Un dittico ha due pannelli, un trittico tre.",
+    "answer": 0,
+    "answers": [
+      "Polittico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In pittura, il grado di luminosità o di oscurità di un colore.",
+    "answer": 0,
+    "answers": [
+      "Valori"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nella scultura, il taglio di una forma da un materiale solido e duro come la pietra o il legno, in contrasto con la tecnica del modellato.",
+    "answer": 0,
+    "answers": [
+      "Intaglio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nella scultura, la costruzione della forma utilizzando un mezzo morbido come l'argilla o la cera, distinta dall'intaglio. Nella pittura e nel disegno, utilizza variazioni di colore e illuminazione per produrre un effetto tridimensionale.",
+    "answer": 0,
+    "answers": [
+      "Modellazione"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nella scultura, la proiezione di un'immagine o di una forma dal suo sfondo. La scultura così realizzata viene definita altorilievo o bassorilievo (bassorilievo), a seconda del grado di proiezione. Nella pittura o nel disegno, la proiezione apparente di parti trasmette l'illusione della tridimensionalità.",
+    "answer": 0,
+    "answers": [
+      "Sollievo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In \"I viaggi di Gulliver\" di Swift qual è la professione di Gulliver",
+    "answer": 0,
+    "answers": [
+      "Chirurgo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nel libro \"Il diario segreto di Adrian Mole\", come si chiamava la fidanzata di Adrian?",
+    "answer": 0,
+    "answers": [
+      "Pandora"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nei libri del Dr Seuss, quale elefante ha covato un uovo?",
+    "answer": 0,
+    "answers": [
+      "Ortone"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale libro troveresti un Hefalump?",
+    "answer": 0,
+    "answers": [
+      "Winnie the Pooh"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale campo di studio troveresti gli \"archi rampanti\"?",
+    "answer": 0,
+    "answers": [
+      "Architettura"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale opera troveresti il ​​tenente Pinkerton?",
+    "answer": 0,
+    "answers": [
+      "Signora farfalla"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale romanzo di fantascienza compaiono il Duca Leto Atreidea e gli Harkonnen?",
+    "answer": 0,
+    "answers": [
+      "Duna"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale opera appare l'HAL 9000?",
+    "answer": 0,
+    "answers": [
+      "2001, Odissea nello spazio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale libro quattro fantasmi visitano Scrooge?",
+    "answer": 0,
+    "answers": [
+      "Un canto di Natale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale libro Scheherazade racconta storie?",
+    "answer": 0,
+    "answers": [
+      "Notti arabe"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale libro che è anche un film compaiono i personaggi Pod, Arrietty, Homily e Peagreen?",
+    "answer": 0,
+    "answers": [
+      "I mutuatari"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale libro troveresti i personaggi Desinov e Dolokhov?",
+    "answer": 0,
+    "answers": [
+      "Guerra e pace di Tolstoj"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale quotidiano nazionale britannico appare Rupert The Bear?",
+    "answer": 0,
+    "answers": [
+      "L'espresso quotidiano"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale secolo gli artisti iniziarono a dipingere su tela?",
+    "answer": 0,
+    "answers": [
+      "XV secolo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale città viene pubblicata l'Enciclopedia Britanica?",
+    "answer": 0,
+    "answers": [
+      "Chicago"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale città troverai il teatro dell'opera più grande del mondo?",
+    "answer": 0,
+    "answers": [
+      "New York, Metropolitan Opera"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale paese è nato John Constable?",
+    "answer": 0,
+    "answers": [
+      "Suffolk"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale operetta di Gilbert & Sullivan appare Nakipoo?",
+    "answer": 0,
+    "answers": [
+      "Il Mikado"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale storia di John Steinbeck sono presenti lo ottuso Lennie e il suo amico George?",
+    "answer": 0,
+    "answers": [
+      "Di topi e uomini"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale romanzo il compito del \"Pompiere\" era bruciare i libri?",
+    "answer": 0,
+    "answers": [
+      "Fahrenheit 451"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quali romanzi appare Bilbo Baggins?",
+    "answer": 0,
+    "answers": [
+      "Lo Hobbit/Il Signore degli Anelli"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale opera shakespeariana troveresti il ​​clown Costard?",
+    "answer": 0,
+    "answers": [
+      "La fatica dell'amore perduta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale tragedia shakespeariana appare Laerte?",
+    "answer": 0,
+    "answers": [
+      "Frazione"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale storia recita lo scolaro \"Piggy\"?",
+    "answer": 0,
+    "answers": [
+      "Il signore delle mosche"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In francese significa \"ingannare l'occhio\". Nella pittura, la resa fine e dettagliata degli oggetti trasmette l'illusione che le forme dipinte siano reali e tridimensionali.",
+    "answer": 0,
+    "answers": [
+      "Trompe l'oeil"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Significa \"fresco\" in italiano. La tecnica di dipingere su intonaco di calce umida con colori macinati in acqua.",
+    "answer": 0,
+    "answers": [
+      "Affrescare"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Significa \"rinascita\" in francese. Si riferisce all'Europa c. 1400-1600. Lo stile iniziò in Italia e sottolineò le forme dell'antichità classica, una rappresentazione realistica dello spazio basata su una prospettiva scientifica e soggetti secolari.",
+    "answer": 0,
+    "answers": [
+      "Rinascimento"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Movimento pittorico nato a New York negli anni '40. Enfatizzava l'espressione personale spontanea, la libertà dai valori artistici accettati, le qualità superficiali della pittura e l'atto stesso del dipingere.",
+    "answer": 0,
+    "answers": [
+      "Espressionismo astratto"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nomina l'autore di \"The Catcher in the Rye\"",
+    "answer": 0,
+    "answers": [
+      "J.D. Salinger"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nomina l'autore del suo famoso e unico romanzo \"Il dottor Zivago\", che presenta una visione panoramica della società russa al tempo della Rivoluzione del 1917.",
+    "answer": 0,
+    "answers": [
+      "Boris Pasternak"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nomina il famoso scrittore greco di favole",
+    "answer": 0,
+    "answers": [
+      "Esopo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Nomina l'artista di Philadelphia che ha introdotto il mondo alla pop art",
+    "answer": 0,
+    "answers": [
+      "Andy Warhol"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dai un nome all'opera di Shakespeare da questo brevissimo riassunto della trama: Spinto da sua moglie, un uomo uccide il suo re per prendere il suo posto.",
+    "answer": 0,
+    "answers": [
+      "Macbeth"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dai un nome alle tre sorelle Bronte",
+    "answer": 0,
+    "answers": [
+      "Charlotte, Emily e Anne"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dai un nome al rifugio montano tibetano descritto in \"L'orizzonte perduto\"",
+    "answer": 0,
+    "answers": [
+      "Shangri-La"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di quale famoso monumento londinese Sir Alfred Gilbert fu lo scultore?",
+    "answer": 0,
+    "answers": [
+      "Eros"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Su una forma rappresentata, un punto di luce più intensa.",
+    "answer": 0,
+    "answers": [
+      "Evidenziare"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Su quale libro è basato \"I tre giorni del Condor\"?",
+    "answer": 0,
+    "answers": [
+      "I sei giorni del Condor"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Vernice applicata molto densa. Spesso sporge dalla superficie dell'immagine.",
+    "answer": 0,
+    "answers": [
+      "Impasto"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dipinto in cui il soggetto è uno scenario naturale.",
+    "answer": 0,
+    "answers": [
+      "Paesaggio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Principalmente, di che nazionalità erano i pittori impressionisti?",
+    "answer": 0,
+    "answers": [
+      "francese"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Ridurre o distorcere per rappresentare lo spazio tridimensionale come percepito dall'occhio, secondo le regole della prospettiva.",
+    "answer": 0,
+    "answers": [
+      "Scorcio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Facendo riferimento ai principi dell'arte greca e romana dell'antichità con la sua enfasi su armonia, proporzione, equilibrio e semplicità. In senso generale, si riferisce all'arte basata su standard di bellezza accettati.",
+    "answer": 0,
+    "answers": [
+      "Classicismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Si riferisce all'arte che utilizza l'enfasi e la distorsione per comunicare emozioni. Più specificamente, si riferisce all'arte nordeuropea del primo Novecento, soprattutto in Germania c. 1905-23.",
+    "answer": 0,
+    "answers": [
+      "Espressionismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Sherlock Holmes viveva al 221b di _____ street?",
+    "answer": 0,
+    "answers": [
+      "Panettiere"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Pablo _____ modernista e cubista spagnolo",
+    "answer": 0,
+    "answers": [
+      "Picasso"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di Stephen King: \"Animale domestico ________\".",
+    "answer": 0,
+    "answers": [
+      "Seminario"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Stephen King: \"Salem's _________\".",
+    "answer": 0,
+    "answers": [
+      "Quantità"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Stephen King: \"I morti ________\".",
+    "answer": 0,
+    "answers": [
+      "Zona"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La scuola di poesia ____ ____ comprende poeti come Frank O'Hara, John Ashbery e Kenneth Koch",
+    "answer": 0,
+    "answers": [
+      "New York"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La generazione ____ comprendeva autori come Jack Kerouac, William S. Burroughs e Allen Ginsburg.",
+    "answer": 0,
+    "answers": [
+      "Colpo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale parola è stata usata per la prima volta nel libro \"Wamyouruijoshou\"?\"",
+    "answer": 0,
+    "answers": [
+      "Aquilone"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "L'effetto dell'armonia del colore e dei valori in un'opera.",
+    "answer": 0,
+    "answers": [
+      "Tono"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "L'errore di personificare oggetti inanimati, spesso di cattivo gusto.",
+    "answer": 0,
+    "answers": [
+      "Errore patetico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Da quale artista è stata realizzata la famosa litografia \"L'urlo\"?",
+    "answer": 0,
+    "answers": [
+      "Edvard Munch"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Gli Hardy Boys e ______?",
+    "answer": 0,
+    "answers": [
+      "Nancy Drew"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dove è ambientata la commedia \"La nostra città\"?",
+    "answer": 0,
+    "answers": [
+      "Gli angoli di Grover"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La resa di luci e ombre nella pittura; le sottili graduazioni e le marcate variazioni di luce e ombra creano effetti drammatici.",
+    "answer": 0,
+    "answers": [
+      "Chiaroscuro"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La rappresentazione di oggetti inanimati nella pittura, nel disegno o nella fotografia.",
+    "answer": 0,
+    "answers": [
+      "Natura morta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La Royal Opera House di Londra ospita quale ramo delle arti oltre all'Opera?",
+    "answer": 0,
+    "answers": [
+      "Balletto"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Lo studio di progettazione edilizia è ____________.",
+    "answer": 0,
+    "answers": [
+      "Architettura"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Il pittore surrealista Salvador Dalì era originario di quale paese?",
+    "answer": 0,
+    "answers": [
+      "Spagna"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La tecnica di produrre disegni stampati attraverso vari metodi di incisione su blocchi di legno o metallo, che vengono poi inchiostrati e stampati.",
+    "answer": 0,
+    "answers": [
+      "Acquaforte"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Il termine \"impressionismo\" fu usato in modo abusivo per la prima volta riguardo a quale artista?",
+    "answer": 0,
+    "answers": [
+      "Claude Monet"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Le due razze in \"The Time Machine\" di HG Well sono gli Eloi infantili e i sotterranei ______?\"",
+    "answer": 0,
+    "answers": [
+      "Morlock"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "La qualità visiva e tattile di un'opera si basa sul modo particolare in cui vengono trattati i materiali, nonché sulla distribuzione dei toni o delle sfumature di un unico colore.",
+    "answer": 0,
+    "answers": [
+      "Struttura"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questo libro, l'unico romanzo di Oscar Wilde, è stato utilizzato come prova nel suo processo per sodomia?",
+    "answer": 0,
+    "answers": [
+      "Il ritratto di Dorian Gray"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questo primo statista e inventore americano scrisse il libro \"Scoreggia con orgoglio\"?",
+    "answer": 0,
+    "answers": [
+      "Benjamin Franklin"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questa ragazza si nascose dai nazisti ad Amsterdam.",
+    "answer": 0,
+    "answers": [
+      "Anna Frank"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questa è la scelta e la disposizione di parole e frasi in un'opera letteraria. È il vocabolario che l'autore, il poeta o il drammaturgo utilizza per creare stile ed effetto in un pezzo di scrittura?",
+    "answer": 0,
+    "answers": [
+      "Dizione"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questa rivista raccontava l '\"Uomo di Bronzo\" e i \"Fabulous Five\".",
+    "answer": 0,
+    "answers": [
+      "Dottor Savage"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In questa rivista sono presenti i reparti \"Picks & Pans\" e \"Chatter\"\"",
+    "answer": 0,
+    "answers": [
+      "Persone"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questa rivista vantava una tiratura di 7.777.777 copie.",
+    "answer": 0,
+    "answers": [
+      "Case e giardini migliori"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quest'uomo è stato \"L'uomo dell'anno\" del 1938 dalla rivista Time.",
+    "answer": 0,
+    "answers": [
+      "Adolf Hitler"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questo poeta romantico e marito di Mary Shelley è annegato in un incidente in barca?",
+    "answer": 0,
+    "answers": [
+      "Percy Bysshe Shelley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questa statua fu trovata sull'isola greca di Melos nel 1820.",
+    "answer": 0,
+    "answers": [
+      "Venere di Milo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Questo argomento è trattato nella rivista \"Bondage\" (due parole)\"",
+    "answer": 0,
+    "answers": [
+      "James Bond"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Tre tipi principali di colonne greche sono dorico, ionico e __________.",
+    "answer": 0,
+    "answers": [
+      "corinzio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Tilly Trotter, Hannah Massey e Maggie Rowan sono tutti personaggi creati da quale romanziere?",
+    "answer": 0,
+    "answers": [
+      "Caterina Cookson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Con quale nome è stata cambiata la Sala delle Arti e delle Scienze?",
+    "answer": 0,
+    "answers": [
+      "La Royal Albert Hall"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Con quale pseudonimo scriveva Hector Hugh Munro?",
+    "answer": 0,
+    "answers": [
+      "Saki"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Vernice idrosolubile composta da pigmenti e un legante plastico.",
+    "answer": 0,
+    "answers": [
+      "Acrilico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Cosa è organizzato nell'arte giapponese dell'Ikebana?",
+    "answer": 0,
+    "answers": [
+      "Fiori"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali sono i nomi di battesimo di JK Rowling Autrice dei libri di \"Harry Potter\"?",
+    "answer": 0,
+    "answers": [
+      "Joanne Kathleen"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali sono i nomi delle sorelle March in \"Little Woman\" di Louisa M. Alcott?",
+    "answer": 0,
+    "answers": [
+      "Jo, Meg Beth e Amy"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Da quale libro è tratto il film Blade Runner?",
+    "answer": 0,
+    "answers": [
+      "Gli androidi sognano pecore elettriche?"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale libro controverso ha scritto Germaine Greer?",
+    "answer": 0,
+    "answers": [
+      "L'eunuco femminile"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di quali creature è ossessionato il capitano Achab?",
+    "answer": 0,
+    "answers": [
+      "Moby Dick, la grande balena bianca"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale danza è associata a Vienna?",
+    "answer": 0,
+    "answers": [
+      "Il valzer"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Cosa rappresentavano le iniziali AE Housemans?",
+    "answer": 0,
+    "answers": [
+      "Alfredo Edoardo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Cosa ha descritto Jeannie C. Riley come \"un piccolo Peyton Place\"?",
+    "answer": 0,
+    "answers": [
+      "Valle dell'Harper"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Cosa ha incontrato Winston nella stanza 101?",
+    "answer": 0,
+    "answers": [
+      "Ratti"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiama un'immagine composta da vari materiali incollati insieme?",
+    "answer": 0,
+    "answers": [
+      "Un collage"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio del Dr Seuss ruba il Natale?",
+    "answer": 0,
+    "answers": [
+      "Grinch"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale maestro olandese ha dipinto 64 autoritratti?",
+    "answer": 0,
+    "answers": [
+      "Rembrandt"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio famoso ha creato Edgar Rice Burroughs?",
+    "answer": 0,
+    "answers": [
+      "Tarzan"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso romanzo gotico è stato scritto da Mary Shelley?",
+    "answer": 0,
+    "answers": [
+      "Frankenstein"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale drammaturgo e autore irlandese ha scritto, tra gli altri, \"L'importanza di essere Ernest\" e \"Il ritratto di Dorian Grey\"?",
+    "answer": 0,
+    "answers": [
+      "Oscar Wilde"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Cos'è l'onomatopea?",
+    "answer": 0,
+    "answers": [
+      "l'uso di parole che suonano come l'evento che descrivono, come bang."
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiama un poema epico islandese?",
+    "answer": 0,
+    "answers": [
+      "Saga"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiama l'arte di tracciare disegni e di farne impressioni?",
+    "answer": 0,
+    "answers": [
+      "Litografia"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il termine balletto per girare su un piede?",
+    "answer": 0,
+    "answers": [
+      "Una piroetta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il primo mezzo di disegno conosciuto?",
+    "answer": 0,
+    "answers": [
+      "Carbone"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il quarto libro della serie \"Harry Potter\"?",
+    "answer": 0,
+    "answers": [
+      "Il Calice Di Fuoco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è l'opera più rappresentata nel Regno Unito?",
+    "answer": 0,
+    "answers": [
+      "La Bohème"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome dato al mezzo pittorico che utilizza i tuorli d'uovo?",
+    "answer": 0,
+    "answers": [
+      "Tempera"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome del detective immaginario di Colin Dexter?",
+    "answer": 0,
+    "answers": [
+      "L'ispettore Morse"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome del cavallo di Gandalf?",
+    "answer": 0,
+    "answers": [
+      "Shadowfax"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome del tragico ammiratore di Amleto?",
+    "answer": 0,
+    "answers": [
+      "Ofelia"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome del settimo e ultimo libro di \"Harry Potter\"?",
+    "answer": 0,
+    "answers": [
+      "Harry Potter e i Doni della Morte"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome dell'uccello nella Peanuts Strip?",
+    "answer": 0,
+    "answers": [
+      "Woodstock"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome del personaggio principale dell'Odissea di Omero?",
+    "answer": 0,
+    "answers": [
+      "Ulisse"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il nome del Balletto Nazionale Russo\"?",
+    "answer": 0,
+    "answers": [
+      "Il balletto Kirov"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è la nazionalità di Picasso?",
+    "answer": 0,
+    "answers": [
+      "spagnolo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il contrario di un'utopia?",
+    "answer": 0,
+    "answers": [
+      "Distopia"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il secondo libro più venduto di tutti i tempi?",
+    "answer": 0,
+    "answers": [
+      "Citazioni dalle opere del presidente Mao Tse-Tung"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il cognome di Cathy in \"Cime tempestose\"?",
+    "answer": 0,
+    "answers": [
+      "Earnshaw"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di che nazionalità era Joseph Conrad?",
+    "answer": 0,
+    "answers": [
+      "Polacco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Con quale altro nome scrive Stephen King?",
+    "answer": 0,
+    "answers": [
+      "Richard Bachmann"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale opera di Shakespeare sono presenti i seguenti personaggi: Cornovaglia, Gloucester, Regan e Goneril?",
+    "answer": 0,
+    "answers": [
+      "Re Lear"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale pubblicazione era sottotitolata The What's New Magazine?",
+    "answer": 0,
+    "answers": [
+      "Scienza popolare"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Che grado era Biggles?",
+    "answer": 0,
+    "answers": [
+      "Maggiore"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "A quale scuola di poeti è stato attribuito John Donne?",
+    "answer": 0,
+    "answers": [
+      "I poeti metafisici"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Che serie ha scritto Robert Jordan?",
+    "answer": 0,
+    "answers": [
+      "Ruota del tempo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale opera shakespeariana è presente il verso: \"Una piaga su entrambe le vostre case\"?",
+    "answer": 0,
+    "answers": [
+      "Romeo e Giulietta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale opera shakespeariana si riferisce alla data dell'Epifania?",
+    "answer": 0,
+    "answers": [
+      "Dodicesima notte"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale storia presenta Flopsy, Mopsy e silvilago?",
+    "answer": 0,
+    "answers": [
+      "Pietro Coniglio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di quale argomento parlava 'Mr. L'insegnamento di Chips?",
+    "answer": 0,
+    "answers": [
+      "latino"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale trilogia ha realizzato J.R.R. Tolkien scrive?",
+    "answer": 0,
+    "answers": [
+      "Il Signore degli Anelli"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Che tipo di animale è il migliore amico di Rupert, l'orso, Bill?",
+    "answer": 0,
+    "answers": [
+      "Tasso"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il vero nome dell'autore George Elliot?",
+    "answer": 0,
+    "answers": [
+      "Mary Ann Cross (nata Evans)"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il cognome di Dante?",
+    "answer": 0,
+    "answers": [
+      "Alighieri"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è stato il primo romanzo di H.G Wells?",
+    "answer": 0,
+    "answers": [
+      "La macchina del tempo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il cognome di Lestat?",
+    "answer": 0,
+    "answers": [
+      "De Lioncourt"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il nome di battesimo di Michelangelo?",
+    "answer": 0,
+    "answers": [
+      "Michelangelo!!"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il nome di battesimo di Picasso?",
+    "answer": 0,
+    "answers": [
+      "Pablo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è stata la prima opera di Shakespeare?",
+    "answer": 0,
+    "answers": [
+      "Enrico VI"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è stata l'ultima opera completata di Shakespeare?",
+    "answer": 0,
+    "answers": [
+      "La Tempesta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è stato il romanzo più famoso di Sherlock Holmes?",
+    "answer": 0,
+    "answers": [
+      "Il Mastino dei Baskerville"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era la soluzione del 7% di Sherlock Holmes in \"Il segno dei quattro\"?",
+    "answer": 0,
+    "answers": [
+      "Cocaina"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il famoso romanzo scritto in prigione da John Bunyan?",
+    "answer": 0,
+    "answers": [
+      "Il progresso del pellegrino"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiamava l'ultimo romanzo di Charles Dickens, incompiuto alla sua morte?",
+    "answer": 0,
+    "answers": [
+      "Il mistero di Edwin Drood"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiamava il figlio di Mamma Oca?",
+    "answer": 0,
+    "answers": [
+      "Jack"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il nome dell'autore che pubblicò \"A Guide To Baby And Child Care\" nel 1946?",
+    "answer": 0,
+    "answers": [
+      "Dottor Spock (non sto scherzando)"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiamava la sorella di William Wordworth?",
+    "answer": 0,
+    "answers": [
+      "Dorothy"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è stato l'unico romanzo scritto da Margaret Mitchell?",
+    "answer": 0,
+    "answers": [
+      "Via col vento"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è stato il seguito di \"Piccole Donne\" di Louisa May Alcott?",
+    "answer": 0,
+    "answers": [
+      "Piccoli uomini"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual era il titolo del primo romanzo di James Bond?",
+    "answer": 0,
+    "answers": [
+      "Casinò Reale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali erano le bambole nel romanzo \"La valle delle bambole\"?",
+    "answer": 0,
+    "answers": [
+      "Pillole"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Come si chiamavano le creature simili ad alberi ne \"Il Signore degli Anelli\"?",
+    "answer": 0,
+    "answers": [
+      "Gli Ent"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali erano le due città in \"Una storia di due città\"?",
+    "answer": 0,
+    "answers": [
+      "Londra e Parigi"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale parola è famosa per aver coniato Isaac Asimov?",
+    "answer": 0,
+    "answers": [
+      "Robotica"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è la pubblicazione gemella di Penthouse per donne?",
+    "answer": 0,
+    "answers": [
+      "Viva"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dove si trova il Louvre?",
+    "answer": 0,
+    "answers": [
+      "Parigi"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dov'è la Galleria del Prado?",
+    "answer": 0,
+    "answers": [
+      "Madrid"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dov'è la galleria d'arte più grande del mondo?",
+    "answer": 0,
+    "answers": [
+      "Parigi (Lourve)"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dove potresti trovare il \"Museo d'arte moderna\"?",
+    "answer": 0,
+    "answers": [
+      "New York"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dove è nato El Grecho?",
+    "answer": 0,
+    "answers": [
+      "Creta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dove troveresti \"L'angolo dei poeti\"?",
+    "answer": 0,
+    "answers": [
+      "Abbazia di Westminster"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Dove troveresti i \"marmi di Elgin\"?",
+    "answer": 0,
+    "answers": [
+      "Il Museo Britannico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali opere di autori francesi di origine algerina includevano \"L'Etranger & La Peste\"?",
+    "answer": 0,
+    "answers": [
+      "Alberto Camus"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale artista americano è noto per il ritratto di sua madre\"?",
+    "answer": 0,
+    "answers": [
+      "James Whistler"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore americano ha scritto \"Jaws\"?",
+    "answer": 0,
+    "answers": [
+      "Pietro Benchley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore americano ha scritto il romanzo \"Radici\"?",
+    "answer": 0,
+    "answers": [
+      "Alex Haley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale cantante lirica degli antipodi ha cantato al matrimonio del principe Carlo con Lady Diana Spencer?",
+    "answer": 0,
+    "answers": [
+      "Kiri Te Kanawa"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale nome di artista significa letteralmente \"piccola botte\"?)",
+    "answer": 0,
+    "answers": [
+      "Botticelli"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha descritto la Prima Guerra Mondiale come la “guerra che porrà fine a tutte le guerre”?",
+    "answer": 0,
+    "answers": [
+      "HG Wells"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore Hitler acclamò come il profeta dell'autoritarismo di destra?",
+    "answer": 0,
+    "answers": [
+      "Nietzsche"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto la serie di romanzi di fantascienza Disc-World?",
+    "answer": 0,
+    "answers": [
+      "Terry Pratchett"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto \"The Sound & The Fury\", \"The Wild Palms\" e \"As I Lay Dying\"?",
+    "answer": 0,
+    "answers": [
+      "William Faulkner"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto \"La spia che venne dal freddo\"?",
+    "answer": 0,
+    "answers": [
+      "John Le Carré"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto romanzi da cui è stata tratta la serie tv \"Tutte le creature grandi e piccole\"?",
+    "answer": 0,
+    "answers": [
+      "James Herriot"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto le \"Just So Stories\"?",
+    "answer": 0,
+    "answers": [
+      "Rudyard Kipling"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto il libro \"Black Beauty\"?",
+    "answer": 0,
+    "answers": [
+      "Anna Sewell"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore ha scritto i libri \"The Shining\" e \"Pet Semetary\"?",
+    "answer": 0,
+    "answers": [
+      "Stephen King"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Il padre di quale autore è stato incarcerato per debiti?",
+    "answer": 0,
+    "answers": [
+      "Charles Dickens"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale libro è presente il signor Scrooge?",
+    "answer": 0,
+    "answers": [
+      "Un canto di Natale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale artista britannico è noto per i suoi numerosi dipinti di cavalli?",
+    "answer": 0,
+    "answers": [
+      "Giorgio Stubbs"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale pittore britannico utilizza spesso una piscina come tema?",
+    "answer": 0,
+    "answers": [
+      "David Hockney"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale celebrazione delle arti si terrà in Galles?",
+    "answer": 0,
+    "answers": [
+      "L'Eisteddfod"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio creato da Dodie Smith guidava un'auto bianca e nera e indossava una pelliccia bianca e nera?",
+    "answer": 0,
+    "answers": [
+      "Crudelia De Vil"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio è presente nel film \"Il giro del mondo in 80 giorni\" di Jules Verne?",
+    "answer": 0,
+    "answers": [
+      "Phileas Fogg"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio abusava invariabilmente delle parole inglesi?",
+    "answer": 0,
+    "answers": [
+      "La signora Malaprop"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio è la creazione più famosa di James Matthew Barrie?",
+    "answer": 0,
+    "answers": [
+      "Peter Pan"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali personaggi sono stati i più longevi nel fumetto \"The Beano\"?",
+    "answer": 0,
+    "answers": [
+      "Lord Snooty e i suoi amici"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale colore seguì il periodo blu di Picasso?",
+    "answer": 0,
+    "answers": [
+      "Rosa"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale stile decorativo era popolare negli anni '20 e '30?",
+    "answer": 0,
+    "answers": [
+      "Art Déco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale romanzo di Em Forster sono presenti le sorelle Schlegal?",
+    "answer": 0,
+    "answers": [
+      "Fine Howard"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore inglese ha creato Horatio Hornblower?",
+    "answer": 0,
+    "answers": [
+      "CS Forester"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale scrittore inglese ha diviso i suoi romanzi in 3 categorie, romanzi di \"personaggio e ambiente\", \"romanzi e fantasie\" e \"romanzi di ingegno\"?",
+    "answer": 0,
+    "answers": [
+      "Tommaso Hardy"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro inizia con la frase \"Marley era morto, tanto per cominciare. Su questo non c'erano dubbi\"?",
+    "answer": 0,
+    "answers": [
+      "Un canto di Natale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro inizia con la frase \"Non molto tempo fa viveva a Londra una giovane coppia sposata di cani dalmata di nome Pongo e la signorina Pongo\"?",
+    "answer": 0,
+    "answers": [
+      "101 Dalmata"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro inizia con la frase \"Il 6 gennaio 1482 il popolo di Parigi fu svegliato dal tumultuoso clangore di tutte le campane della città\"?",
+    "answer": 0,
+    "answers": [
+      "Il Gobbo Di Natre Damme"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro inizia con la frase \"La talpa aveva lavorato duramente tutta la mattina, facendo le pulizie di primavera nella sua casetta\"?",
+    "answer": 0,
+    "answers": [
+      "Il vento tra i salici"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro inizia con la frase \"Quando ci incontreremo di nuovo noi tre, tra i tuoni, i fulmini o la pioggia\"?",
+    "answer": 0,
+    "answers": [
+      "Macbeth"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale libro famoso contiene la frase \"In un buco nel terreno viveva un...\"?",
+    "answer": 0,
+    "answers": [
+      "Lo Hobbit"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro contiene la frase \"È una verità universalmente riconosciuta che un uomo scapolo in possesso di una buona fortuna deve essere bisognoso di una moglie\"?",
+    "answer": 0,
+    "answers": [
+      "Orgoglio e pregiudizio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale famoso libro contiene la frase \"Era il migliore dei tempi, era il peggiore dei tempi, era l'età della saggezza\"?",
+    "answer": 0,
+    "answers": [
+      "Una storia di 2 città"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale libro famoso contiene la frase \"Il signor e la signora Dursley del numero 4 di Privet Drive erano orgogliosi di dire che erano perfettamente normali\"?",
+    "answer": 0,
+    "answers": [
+      "Harry Potter e la pietra filosofale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale famoso libro è contenuta la frase \"C'era una volta un piccolo spazzacamino e il suo nome era Tom\"?",
+    "answer": 0,
+    "answers": [
+      "I bambini dell'acqua"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "A quale famoso scultore è stato rifiutato l'ingresso all'Accademia francese per 3 volte?",
+    "answer": 0,
+    "answers": [
+      "Agosto Rodin"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale ex fantino è specializzato in romanzi riguardanti le corse dei cavalli?",
+    "answer": 0,
+    "answers": [
+      "Dick Francesco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanzo germinale di autori francesi descrive la vita in una comunità mineraria?",
+    "answer": 0,
+    "answers": [
+      "Emilio Zola"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale galleria ha mostre a Londra e St Ives, in Cornovaglia?",
+    "answer": 0,
+    "answers": [
+      "La Galleria Tate"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale opera di Gilbert e Sullivan parla dell'imperatore del Giappone?",
+    "answer": 0,
+    "answers": [
+      "Il Mikado"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è il museo più grande del mondo?",
+    "answer": 0,
+    "answers": [
+      "Louvre"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Qual è l'unico libro scritto da Margaret Mitchell?",
+    "answer": 0,
+    "answers": [
+      "Via col vento"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio letterario aveva un cane chiamato Bulls Eye?",
+    "answer": 0,
+    "answers": [
+      "Bill Sykes (Oliver!)"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale membro del team dei Monty Python ha scritto libri per bambini su \"Erik il vichingo\"?",
+    "answer": 0,
+    "answers": [
+      "Terry Jones"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale movimento ha attraversato il periodo dal XVII secolo all'inizio del XVIII?",
+    "answer": 0,
+    "answers": [
+      "Barocco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale premio Nobel ha scritto \"una storia dei popoli di lingua inglese\"?",
+    "answer": 0,
+    "answers": [
+      "Winston Churchill"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanzo di Mary Shelley aveva il sottotitolo \"Il Prometeo moderno\"?",
+    "answer": 0,
+    "answers": [
+      "Frankenstein"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanzo di Michael Crichton è stato il \"tascabile più venduto\" nel 1993?",
+    "answer": 0,
+    "answers": [
+      "Parco giurassico"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanzo tratta gli eventi di Un giorno a Dublino nel giugno 1904?",
+    "answer": 0,
+    "answers": [
+      "Ulisse Di James Joyce"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale romanzo è presente Perks, il portiere della stazione?",
+    "answer": 0,
+    "answers": [
+      "I bambini delle ferrovie"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanzo originariamente doveva intitolarsi Elinor e Marianne?",
+    "answer": 0,
+    "answers": [
+      "Ragione E Sensibilità"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale di Jane Austens?",
+    "answer": 0,
+    "answers": [
+      "Persuasione"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale delle sorelle Bronte sposò il reverendo A.B. Nicholls nel 1854?",
+    "answer": 0,
+    "answers": [
+      "Carlotta"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale fuorilegge cavalcava un cavallo chiamato Black Bess?",
+    "answer": 0,
+    "answers": [
+      "Dick Turpino"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale pittore è noto per le sue opere raffiguranti il ​​Moulin Rouge?",
+    "answer": 0,
+    "answers": [
+      "Tolosa-Lautrec"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale pittore si dice si sia tagliato un orecchio?",
+    "answer": 0,
+    "answers": [
+      "Vincent Van Goch"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale poeta ha preceduto Ted Hughes come poeta laureato?",
+    "answer": 0,
+    "answers": [
+      "Sir John Betjeman"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale poeta non ha scritto versi durante il suo periodo come poeta laureato?",
+    "answer": 0,
+    "answers": [
+      "William Wordsworth"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale poeta, nella sua \"Elegia scritta in un cimitero di campagna\" ci ha detto che \"Molti fiori nascono per arrossire invisibili / E sprecare la loro dolcezza nell'aria del deserto.\"?",
+    "answer": 0,
+    "answers": [
+      "Tommaso Grigio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale casa editrice è stata fondata a Londra nel 1935 da Allen Lane?",
+    "answer": 0,
+    "answers": [
+      "Pinguino"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale scuola ha frequentato Billy Bunter?",
+    "answer": 0,
+    "answers": [
+      "Greyfriars"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale storia di fantascienza è incentrata su bambini alieni in un villaggio?",
+    "answer": 0,
+    "answers": [
+      "I cuculi Midwitch"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale scultore ha prodotto un telefono aragosta?",
+    "answer": 0,
+    "answers": [
+      "Salvador Dalì"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale opera di Shakespeare contiene la frase \"se la musica sia il cibo dell'amore, recita\"?",
+    "answer": 0,
+    "answers": [
+      "Dodicesima notte"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale opera di Shakespeare si apre con le tre streghe?",
+    "answer": 0,
+    "answers": [
+      "Macbeth"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale personaggio shakespeariano ha più battute?",
+    "answer": 0,
+    "answers": [
+      "Frazione"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "In quale opera shakespeariana è presente il verso \"Ora è l'inverno del nostro scontento\"?",
+    "answer": 0,
+    "answers": [
+      "Riccardo III"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale opera shakespeariana è ambientata nella foresta di Arden?",
+    "answer": 0,
+    "answers": [
+      "Come piace a te"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanziere e poeta nato a St. Louis divenne suddito britannico nel 1927?",
+    "answer": 0,
+    "answers": [
+      "T.S. Eliot"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale romanzo di Stephen King è ambientato all'Overlook Hotel?",
+    "answer": 0,
+    "answers": [
+      "Lo Splendente"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale taverna era il ritrovo preferito di Falstaff nell'\"Enrico IV\" di Shakespeare?",
+    "answer": 0,
+    "answers": [
+      "La testa del cinghiale"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale commedia di Tennesee Williams parla di una donna siculo-americana?",
+    "answer": 0,
+    "answers": [
+      "La rosa tatuata"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali opere di scrittori di thriller includono \"The Dark Eyes Of London\", \"Four Just Men e Sanders Of The River\"?",
+    "answer": 0,
+    "answers": [
+      "Edgard Wallace"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quali due fratelli scrissero fiabe nella Germania del XIX secolo?",
+    "answer": 0,
+    "answers": [
+      "I fratelli Grimm"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale autore americano ha scritto i romanzi \"Uomini e topi\" e \"La valle dell'Eden\"?",
+    "answer": 0,
+    "answers": [
+      "Giovanni Steinbeck"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Il vero nome di quale clarinettista americano era Arthur Jacob Shaw?",
+    "answer": 0,
+    "answers": [
+      "Arti Shaw"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale drammaturgo americano una volta era sposato con Marylin Monroe e scrisse le opere teatrali \"Morte di un commesso viaggiatore\" e \"Il crogiolo\"?",
+    "answer": 0,
+    "answers": [
+      "Arthur Miller"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale poeta gallese morì di avvelenamento da alcol l'anno in cui pubblicò la sua raccolta di poesie?",
+    "answer": 0,
+    "answers": [
+      "Dylan Tommaso"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale donna ha avuto più ritratti di chiunque altro?",
+    "answer": 0,
+    "answers": [
+      "La regina Elisabetta II"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale parola creata da JK Rowling è entrata nell'Oxford English Dictionary nel 2003?",
+    "answer": 0,
+    "answers": [
+      "Babbano"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Quale scrittore, archeologo e soldato si unì alla RAF dopo la prima guerra mondiale e cambiò il suo nome in Shaw nel 1927?",
+    "answer": 0,
+    "answers": [
+      "TE Lawrence"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha co-scritto \"Yeoman Of The Guard\", \"Lolanthe And The Mikado\"?",
+    "answer": 0,
+    "answers": [
+      "Gilbert e Sullivan"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha composto il balletto (Romeo e Giulietta)?",
+    "answer": 0,
+    "answers": [
+      "Prokofiev"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha composto il balletto (Lo Schiaccianoci)?",
+    "answer": 0,
+    "answers": [
+      "Čajkovskij"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha composto l'opera \"Oedipus Rex\"?",
+    "answer": 0,
+    "answers": [
+      "Stravinskij"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato \"Horton l'elefante\"?",
+    "answer": 0,
+    "answers": [
+      "Dottor Seuss"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato \"Maudie Frickett\"?",
+    "answer": 0,
+    "answers": [
+      "Jonathan Winters"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato \"Il Santo\"?",
+    "answer": 0,
+    "answers": [
+      "Leslie Charteris"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato Lord Peter Wimsey?",
+    "answer": 0,
+    "answers": [
+      "Dorothy L. Sayers"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato Sherlock Holmes?",
+    "answer": 0,
+    "answers": [
+      "Sir Arthur Conan Doyle"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato il personaggio di Adrian Mole?",
+    "answer": 0,
+    "answers": [
+      "Sue Towsend"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato Winnie the Pooh?",
+    "answer": 0,
+    "answers": [
+      "AA Milne"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha disegnato la copertina dell'LP dei Rolling Stones \"Sticky Fingers\"?",
+    "answer": 0,
+    "answers": [
+      "Andy Warhol"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha creato l'autrice Leslie Charteris?",
+    "answer": 0,
+    "answers": [
+      "Il Santo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha ucciso Macduff?",
+    "answer": 0,
+    "answers": [
+      "Macbeth"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha disegnato \"Disegni di assurdi congegni meccanici\"?",
+    "answer": 0,
+    "answers": [
+      "William Heath Robinson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha soprannominato l'Australia \"il paese fortunato\"?",
+    "answer": 0,
+    "answers": [
+      "Donald Horne"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi aveva ingannato il \"Signore di Rohan\" per diversi anni?",
+    "answer": 0,
+    "answers": [
+      "Vermilinguo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è un artista discografico di successo, un paesaggista di talento e un autore di libri per bambini?",
+    "answer": 0,
+    "answers": [
+      "Ricky Van Shelton"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è associato all'indirizzo 221B Baker Street, Londra?",
+    "answer": 0,
+    "answers": [
+      "Sherlock Holmes"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è meglio conosciuta Karen Blixen?",
+    "answer": 0,
+    "answers": [
+      "Isaak Dinesen"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è noto per i suoi \"Versetti senza senso\"?",
+    "answer": 0,
+    "answers": [
+      "Edoardo Lear"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è il personaggio più famoso della scrittrice Helen Fielding?",
+    "answer": 0,
+    "answers": [
+      "Bridget Jones"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è il benefattore di Pips in Le grandi aspettative di Dickens?",
+    "answer": 0,
+    "answers": [
+      "Abel Magwitch"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è responsabile della pittura della Monna Lisa?",
+    "answer": 0,
+    "answers": [
+      "Leonardo Da Vinci"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è l'autore di \"Brave New World\"?",
+    "answer": 0,
+    "answers": [
+      "Aldous Huxley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è l'autore di \"Harry Potter\"?",
+    "answer": 0,
+    "answers": [
+      "Joan Rowling"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è il personaggio più famoso mai creato da Helen Fielding?",
+    "answer": 0,
+    "answers": [
+      "Bridget Jones"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi è il protagonista del Paradiso perduto di Milton?",
+    "answer": 0,
+    "answers": [
+      "Satana"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha ucciso Macbeth?",
+    "answer": 0,
+    "answers": [
+      "Macduff"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi uccide Nancy nel romanzo di Dickens \"Oliver Twist\"?",
+    "answer": 0,
+    "answers": [
+      "Bill Sykes"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto \"Flatford Mill\"?",
+    "answer": 0,
+    "answers": [
+      "Agente"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto \"Iris\"?",
+    "answer": 0,
+    "answers": [
+      "Vincent Van Gogh"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto \"Il ragazzo blu\"?",
+    "answer": 0,
+    "answers": [
+      "Gainsborough"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto \"La Creazione di Adamo\"?",
+    "answer": 0,
+    "answers": [
+      "Michelangelo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto \"L'Ultima Cena\"?",
+    "answer": 0,
+    "answers": [
+      "Leonardo Da Vinci"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto la \"Gioconda\"?",
+    "answer": 0,
+    "answers": [
+      "Leonardo da Vinci"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha dipinto il soffitto della Cappella Sistina?",
+    "answer": 0,
+    "answers": [
+      "Michelangelo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto l'autobiografia del 1999 \"Managing My Life\"?",
+    "answer": 0,
+    "answers": [
+      "Alex Ferguson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il romanzo \"The Pelican Brief\" da cui è stato tratto un film con Julia Roberts e Denzel Washington?",
+    "answer": 0,
+    "answers": [
+      "John Grisham"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha detto 'Ma, morbido! quale luce irrompe da quella finestra?",
+    "answer": 0,
+    "answers": [
+      "Romeo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha detto \"Quando un uomo è stanco di Londra è stanco della vita\"?",
+    "answer": 0,
+    "answers": [
+      "Il dottor Samuel Johnson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha raccontato storie su Brer Rabbit e Brer Fox?",
+    "answer": 0,
+    "answers": [
+      "Zio Remo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi era meglio conosciuto come Samuel Clemens?",
+    "answer": 0,
+    "answers": [
+      "Mark Twain"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi era l'autore di \"Dracula\"?",
+    "answer": 0,
+    "answers": [
+      "Bram Stoker"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "chi fu la prima persona ad essere sepolta al Poets Corner?",
+    "answer": 0,
+    "answers": [
+      "Geoffrey Chaucer"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi era il compagno umano di Willow?",
+    "answer": 0,
+    "answers": [
+      "Il pazzo Mardigan"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi era il mercante ne \"Il mercante di Venezia\" di Shakespeare?",
+    "answer": 0,
+    "answers": [
+      "Antonio"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi era la moglie di William Shakespeare?",
+    "answer": 0,
+    "answers": [
+      "Anne Hathaway"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi era il vicino di casa di Winnie the Pooh?",
+    "answer": 0,
+    "answers": [
+      "Maialino"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha vinto il premio Pulitzer per \"Le ceneri di Angela\"?",
+    "answer": 0,
+    "answers": [
+      "Frank McCourt"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi scrive i romanzi di Discworld?",
+    "answer": 0,
+    "answers": [
+      "Terry Pratchett"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"1984\"?",
+    "answer": 0,
+    "answers": [
+      "George Orwell"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"A Christmas Carol\"?",
+    "answer": 0,
+    "answers": [
+      "Charles Dickens"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Storia di due città\"?",
+    "answer": 0,
+    "answers": [
+      "Charles Dickens"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"A proposito di Tarzan\"?",
+    "answer": 0,
+    "answers": [
+      "Edgar Rice Burroughs"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Alice nel Paese delle Meraviglie\"?",
+    "answer": 0,
+    "answers": [
+      "Lewis Carroll"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"La fattoria degli animali\"?",
+    "answer": 0,
+    "answers": [
+      "George Orwell"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il mondo nuovo\"?",
+    "answer": 0,
+    "answers": [
+      "Aldous Huxley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il gioco di Ender\"?",
+    "answer": 0,
+    "answers": [
+      "Carta Orson Scott"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Lontano dalla folla impazzita\"?",
+    "answer": 0,
+    "answers": [
+      "Tommaso Hardy"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Via col vento\"?",
+    "answer": 0,
+    "answers": [
+      "Margherita Mitchell"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Via col vento\"?",
+    "answer": 0,
+    "answers": [
+      "Margherita Mitchell"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Grandi aspettative\"?",
+    "answer": 0,
+    "answers": [
+      "Charles Dickens"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"I viaggi di Gulliver\"?",
+    "answer": 0,
+    "answers": [
+      "Jonathan Swift"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Jurassic Park\"?",
+    "answer": 0,
+    "answers": [
+      "Michael Crichton"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"agnellino, chi ti ha creato\"?",
+    "answer": 0,
+    "answers": [
+      "William Blake"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Mein Kampf\" (La mia lotta)?",
+    "answer": 0,
+    "answers": [
+      "Adolf Hitler"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il vecchio libro dei gatti pratici\"?",
+    "answer": 0,
+    "answers": [
+      "T.S. Eliot"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il Paradiso Perduto\"?",
+    "answer": 0,
+    "answers": [
+      "Giovanni Milton"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Psycho\"?",
+    "answer": 0,
+    "answers": [
+      "Roberto Bloch"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Incontro con Rama\"?",
+    "answer": 0,
+    "answers": [
+      "Sir Arthur C. Clarke"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Robinsonn Crusoe\"?",
+    "answer": 0,
+    "answers": [
+      "Daniele Defo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Dieci piccoli indiani?\"",
+    "answer": 0,
+    "answers": [
+      "Agata Christie"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Le avventure di Huckleberry Finn\"?",
+    "answer": 0,
+    "answers": [
+      "Mark Twain"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i romanzi \"The Barsetshire\"?",
+    "answer": 0,
+    "answers": [
+      "Antonio Trollope"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Gli uccelli\"?",
+    "answer": 0,
+    "answers": [
+      "Daphne du Maurier"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"I racconti di Canterbury\"?",
+    "answer": 0,
+    "answers": [
+      "Geoffrey Chaucer"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il conte di Monte-Christo\"?",
+    "answer": 0,
+    "answers": [
+      "Dumas"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"L'eunuco femmina\"?",
+    "answer": 0,
+    "answers": [
+      "Germain Greer"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il grande Gatsby\"?",
+    "answer": 0,
+    "answers": [
+      "F.Scott Fitzgerald"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"La Guida Galattica per gli Autostoppisti\"?",
+    "answer": 0,
+    "answers": [
+      "Douglas Adams"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Lo Hobbit\"?",
+    "answer": 0,
+    "answers": [
+      "J.R.R. Tolkien"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"L'assassinio di Roger Ackroyd\"?",
+    "answer": 0,
+    "answers": [
+      "Agata Christie"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Le storie di Noddy\"?",
+    "answer": 0,
+    "answers": [
+      "Enid Blyton"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"La ballata dell'antico marinaio?\"",
+    "answer": 0,
+    "answers": [
+      "Samuel Taylor Coleridge"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"La rosa tatuata\"?",
+    "answer": 0,
+    "answers": [
+      "TennesseeWilliams"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"La macchina del tempo\"?",
+    "answer": 0,
+    "answers": [
+      "H.G. Wells"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il vento tra i salici\"?",
+    "answer": 0,
+    "answers": [
+      "Kenneth Grahame"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Il buio oltre la siepe\"?",
+    "answer": 0,
+    "answers": [
+      "Harper Lee"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"La Valle delle Bambole\"?",
+    "answer": 0,
+    "answers": [
+      "Jacqueline Susann"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Lo strano Harold e il grasso Albert\"?",
+    "answer": 0,
+    "answers": [
+      "Bill Cosby"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il \"Belgariad\"?",
+    "answer": 0,
+    "answers": [
+      "Leigh e David Eddings"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i \"Racconti di Canterbury\"?",
+    "answer": 0,
+    "answers": [
+      "Geoffrey Chaucer"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la serie \"Discworld\"?",
+    "answer": 0,
+    "answers": [
+      "Terry Pratchett"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la serie \"Dragonriders Of Pern\"?",
+    "answer": 0,
+    "answers": [
+      "Anne McCaffrey"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i gialli di \"Padre Brown\"?",
+    "answer": 0,
+    "answers": [
+      "G.K. Chesterton"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto \"Arcipelago Gulag\"?",
+    "answer": 0,
+    "answers": [
+      "Aleksandr Solženicyn"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la serie \"Myth\"?",
+    "answer": 0,
+    "answers": [
+      "Roberto Asprin"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i libri \"Noddy\"?",
+    "answer": 0,
+    "answers": [
+      "Enid Blyton"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il libro \"A Brief History Of Time\" nel 1988?",
+    "answer": 0,
+    "answers": [
+      "Stephen Hawking"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il libro \"Brave New World\"?",
+    "answer": 0,
+    "answers": [
+      "Aldous Huxley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il libro \"L'origine delle specie\"?",
+    "answer": 0,
+    "answers": [
+      "Carlo Darwin"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i libri \"The Firm\" e \"The Pelican Brief\", entrambi trasformati in film?",
+    "answer": 0,
+    "answers": [
+      "John Grisham"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il poema epico \"Odissea\"?",
+    "answer": 0,
+    "answers": [
+      "Omero"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il poema epico \"Iliade\"?",
+    "answer": 0,
+    "answers": [
+      "Omero"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il romanzo \"Emma\"?",
+    "answer": 0,
+    "answers": [
+      "Jane Austen"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il romanzo \"Lo Squalo\", poi trasformato in un film di successo da Steven Spielberg?",
+    "answer": 0,
+    "answers": [
+      "Pietro Benchley"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il romanzo \"L'amante di Lady Chatterly\"?",
+    "answer": 0,
+    "answers": [
+      "DH Lawrence"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il romanzo \"Il silenzio degli innocenti\"?",
+    "answer": 0,
+    "answers": [
+      "Tommaso Harris"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto il romanzo \"Lo strano caso del dottor Jekyll e del signor Hyde\"?",
+    "answer": 0,
+    "answers": [
+      "Stevenson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i romanzi \"About A Boy\", \"How To Be Good\" e \"High Fidelity\"?",
+    "answer": 0,
+    "answers": [
+      "Nick Hornby"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i romanzi \"Slaughterhouse Five\" e \"Breakfast Of Champions\"?",
+    "answer": 0,
+    "answers": [
+      "Kurt Vonnegut"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto i romanzi \"Caccia a Ottobre Rosso\" e \"Pericolo chiaro e presente\"?",
+    "answer": 0,
+    "answers": [
+      "Tom Clancy"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto l'opera \"L'Olandese Volante\"?",
+    "answer": 0,
+    "answers": [
+      "Wagner"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la commedia \"Hay Fever\"?",
+    "answer": 0,
+    "answers": [
+      "Noël Codardo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la commedia \"La trappola per topi\"?",
+    "answer": 0,
+    "answers": [
+      "Agata Christie"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la lettera più breve di sempre?",
+    "answer": 0,
+    "answers": [
+      "Vittorio Ugo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto l'opera \"Tre soldi\"?",
+    "answer": 0,
+    "answers": [
+      "Bertolt Brecht"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto le storie di Tintin?",
+    "answer": 0,
+    "answers": [
+      "(Georges Remi) Hergé"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto la serie sui vampiri che vedeva Lestat come personaggio principale?",
+    "answer": 0,
+    "answers": [
+      "Anna Riso"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Chi ha scritto tre libri dal titolo \"Das Kapital\"?",
+    "answer": 0,
+    "answers": [
+      "Carlo Marx"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Le ultime parole di chi sono state \"Così con un bacio muoio\"?",
+    "answer": 0,
+    "answers": [
+      "Romeo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di chi è l'autobiografia intitolata \"Caro me\"?",
+    "answer": 0,
+    "answers": [
+      "Di Pietro Ustinov"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di chi è stata pubblicata la prima raccolta di racconti intitolata \"In Our Time\" nel 1925\"?",
+    "answer": 0,
+    "answers": [
+      "Ernest Hemingway"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di chi è il fantasma che appare a tavola in \"Macbeth\"?",
+    "answer": 0,
+    "answers": [
+      "Quello di Banco"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di chi è la vita oggetto della biografia di James Boswell, pubblicata nel 1791?",
+    "answer": 0,
+    "answers": [
+      "Samuel Johnson"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di chi è rimasto il sorriso dopo che il resto era svanito?",
+    "answer": 0,
+    "answers": [
+      "Lo Stregatto"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Di chi sono state scritte le opere \"Ballad Of Reading Gaol\" e \"De Profundis\" sulla base delle sue esperienze in prigione?",
+    "answer": 0,
+    "answers": [
+      "Oscar Wilde"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "A quale movimento artistico era associato Salvador Dalì?",
+    "answer": 0,
+    "answers": [
+      "Surrealismo"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Rivista femminile lanciata a New York negli anni '70.",
+    "answer": 0,
+    "answers": [
+      "SM"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "ART_AND_LITERATURE",
+    "lang": "it",
+    "tags": [
+      "ART_AND_LITERATURE"
+    ],
+    "question": "Opere di un popolo culturalmente omogeneo senza formazione formale, generalmente secondo le tradizioni regionali e che coinvolgono l'artigianato.",
+    "answer": 0,
+    "answers": [
+      "Arte popolare"
+    ],
+    "source": ""
+  }
+]
