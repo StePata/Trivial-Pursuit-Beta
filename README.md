@@ -1,5 +1,5 @@
 # Trivial Pursuit Beta
-                 TRIVIAL PURSUIT 🎲                        
+               
 
 
 BENVENUTO!
