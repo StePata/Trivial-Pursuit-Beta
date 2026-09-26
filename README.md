@@ -1,8 +1,6 @@
 # Trivial Pursuit Beta
-╔══════════════════════════════════════════════════════════════╗
-║                    TRIVIAL PURSUIT 🎲                        ║
-║                  Guida all'Installazione                     ║
-╚══════════════════════════════════════════════════════════════╝
+                 TRIVIAL PURSUIT 🎲                        
+
 
 BENVENUTO!
 ==========
